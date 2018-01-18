@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+div {
+  border: solid black 1px;
+  margin: 1px; 
+}
+
+logo {
+  border: solid black 1px;
+  width: 100px;
+  height: 100px;
+  float: left; /* shoves stuff to the left and un-blocks it */
+}
+
+header {
+  border: solid black 1px;
+  width: 900px;
+  height: 100px;
+  float: left;
+}
+
+nav {
+  border: solid black 1px;
+  width: 100px;
+  height: 400px;
+  float: left;
+  clear: left;
+}
+
+main {
+  border: solid black 1px;
+  width: 900px;
+  height: 400px;
+  float: left;
+}
+
+footer {
+  border: solid black 1px;
+  width: 1002px;
+  height: 100px;
+  float: left;
+}
+
+
+
